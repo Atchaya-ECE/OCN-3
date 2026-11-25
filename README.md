@@ -42,6 +42,5 @@ The system is *instrumented* with:
 
 ## Result
 The OptiPerformer software was successfully used to simulate the fiber optic communication system. The eye diagram was observed using the BER Analyzer, and the received optical power, Max Q Factor, and Min BER were analyzed for different fiber lengths. It was observed that as fiber length increases, signal degradation increases, received power decreases, and the quality of signal reception generally reduces.
----
 
 
